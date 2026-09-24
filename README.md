@@ -1,4 +1,4 @@
-# Economics-Final-Project
+# Simulador-Fotovoltaico
 
 Project Overview: What business or analytical problem does this solve?
 
