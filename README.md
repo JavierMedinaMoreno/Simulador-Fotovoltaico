@@ -1,0 +1,1 @@
+Modelo técnico-económico parametrizable que simula a escala horaria el balance de energía y la viabilidad financiera de una instalación fotovoltaica con baterías a lo largo del horizonte operativo configurado por el usuario.
